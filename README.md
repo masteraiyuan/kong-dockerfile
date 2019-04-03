@@ -1,11 +1,11 @@
 # kong-dockerfile
 生产环境中kong的镜像脚本和配置
 
-###扩展功能
+### 扩展功能
 1. 镜像中添加了logratate。
 2. 添加custom template。
 
-#### 目录介绍
+### 目录介绍
 
 主要是生产环境部署时需要用到的文件。
 
